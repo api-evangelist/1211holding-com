@@ -1,4 +1,4 @@
-# 1211holding-com
+# 1211
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,141 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-1211holding-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://1211holding.com/
+1211 offers a print‑on‑demand service that lets anyone turn any picture into custom shirts, hoodies, hats, tumblers or tote bags. Items are printed one‑at‑a‑time after order, starting at $18, with free shipping to US addresses and no account or minimum required. Users can upload artwork directly or generate it with an AI assistant, receive a unique purchase link, and the company handles production, payment and sales tax.
+
+**Areas:** Print-on-demand · E-commerce · API · Merchandise · Custom-Products
+
+## 1211 on APIs.io
+
+Everything profiled for 1211 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/1211holding-com/](https://apis.io/providers/1211holding-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [1211 Art API](https://apis.io/apis/1211holding-com/1211holding-com-art-api/) — The Art API from 1211 — 1 operation(s) for art.
+- [1211 Catalog API](https://apis.io/apis/1211holding-com/1211holding-com-catalog-api/) — The Catalog API from 1211 — 1 operation(s) for catalog.
+- [1211 Designs API](https://apis.io/apis/1211holding-com/1211holding-com-designs-api/) — The Designs API from 1211 — 1 operation(s) for designs.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [1211Holding Com Agentic Access](https://apis.io/agentic-access/1211holding-com/1211holding-com-agentic-access/)
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [ArtUpload](https://apis.io/schemas/1211holding-com/1211holding-com-art-upload/)
+- [Catalog](https://apis.io/schemas/1211holding-com/1211holding-com-catalog/)
+- [Design](https://apis.io/schemas/1211holding-com/1211holding-com-design/)
+- [DesignRequest](https://apis.io/schemas/1211holding-com/1211holding-com-design-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [1211Holding Com Context](https://apis.io/jsonld/1211holding-com/1211holding-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [1211 API Rules](https://apis.io/rules/1211holding-com/1211holding-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [1211Holding Com Authentication](https://apis.io/security/1211holding-com/1211holding-com-authentication/)
+- [1211Holding Com Domain Security](https://apis.io/security/1211holding-com/1211holding-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [1211Holding Com Scopes](https://apis.io/scopes/1211holding-com/1211holding-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [1211Holding Com Plans Pricing](https://apis.io/plans/1211holding-com/1211holding-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [1211Holding Com Rate Limits](https://apis.io/rate-limits/1211holding-com/1211holding-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://1211holding.com/)
+- [Documentation](https://1211holding.com/developers)
+- [Getting started](https://1211holding.com/make)
+- [API reference](https://1211holding.com/developers)
+- [Pricing](https://1211holding.com/pricing.php)
+- [Sign up](https://1211holding.com/signup.php)
+- [Terms of service](https://1211holding.com/legal/tos_v1.html)
+- [Privacy policy](https://1211holding.com/legal/privacy_v1.html)
+- [GitHub](https://github.com/robgundling1211)
+
+## API Evangelist rating
+
+**Kin Score 58.0** — strong · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 57.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 33.7 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 63.7 |
+
+**Agent readiness 32.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/1211holding-com/](https://apis.io/providers/1211holding-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 1211: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/1211holding-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
